@@ -12,15 +12,15 @@ After years designing physical spaces, I decided to bring my creativity and user
 I believe that great interfaces are like great spaces — they should be functional, beautiful, and accessible to everyone.
 
 📍 Based in São Paulo, Brazil  
-📚 Currently learning **HTML · CSS · JavaScript · React**  
+📚 Currently learning **HTML · CSS · JavaScript**  
 🎨 Strong skills in **UI/UX**, **visual composition**, and **responsive design**
 
 ---
 
 ## 🛠️ Technologies & Tools
 - **Languages**: HTML, CSS, JavaScript (ES6+)
-- **Frameworks/Libraries**: React (learning), Tailwind CSS
-- **Tools**: Git, GitHub, VS Code, Figma
+- **Frameworks/Libraries**: React (learning), 
+- **Tools**: GitHub, VS Code, Figma
 - **Design Skills**: UI Design, UX Principles, Prototyping
 
 ---
